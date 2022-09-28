@@ -1,1 +1,0 @@
-# Motopress-Hotel-Booking-XSS
