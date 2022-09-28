@@ -1,4 +1,5 @@
 # Exploit Title: WordPress Plugin Motopress Hotel Booking Lite 4.4.2 - Stored Cross-Site Scripting (XSS)
+
 Date: 2022-09-28
 
 Exploit Author: Ali Alipour
@@ -13,6 +14,7 @@ Tested on: Windows 10 Pro x64 - XAMPP Server
 
 CVE : N/A
 
+------------------------------------------------
 
 PoC:
 
