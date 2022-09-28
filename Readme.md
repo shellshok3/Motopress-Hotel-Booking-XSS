@@ -1,4 +1,4 @@
-# Exploit Title: WordPress Plugin Motopress Hotel Booking Lite 4.4.2 - Stored Cross-Site Scripting (XSS)
+# WordPress Plugin Motopress Hotel Booking Lite 4.4.2 - Stored Cross-Site Scripting (XSS)
 
 Date: 2022-09-28
 
